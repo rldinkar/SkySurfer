@@ -1,7 +1,6 @@
 # Sky Surfer in Python!
 
 
-
 Sky Surfer is a simple yet addictive Python game built using the Pygame library. In this game, you control a surfer flying through the sky, avoiding obstacles and collecting points.
 
 ## Installation
@@ -43,7 +42,11 @@ Sky Surfer is a simple yet addictive Python game built using the Pygame library.
 
  ## Video
 
- ![Sky_Suffer video](https://drive.google.com/file/d/VIDEO_ID_HERE/view?usp=sharing)
+ ![Sky_Surfer video](https://drive.google.com/file/d/VIDEO_ID_HERE/view?usp=sharing)
+
+ ## Images
+
+ ![Sky_Surfer Screenshot]()
 
  
 
