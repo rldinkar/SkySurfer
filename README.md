@@ -46,9 +46,8 @@ Sky Surfer is a simple yet addictive Python game built using the Pygame library.
 
  ## Images
 
- ![Sky_Surfer Screenshot](Screenshot 2024-03-19 at 1.44.37 PM.png)
+ ![Sky_Surfer Screenshot](https://drive.google.com/file/d/1PSRdtmr9Ct8aDJn8qAizZudNwHarwQoh/view?usp=drive_link, https://drive.google.com/file/d/1Zg0hp510vJyA5uhDpMPQnHsa0VEdBjDe/view?usp=drive_link)
 
- ![Sky_Surfer Screenshot](Screenshot 2024-03-19 at 1.44.32 PM.png)
  
 
  
