@@ -16,10 +16,10 @@ python main.py
 
 # How to Play
 
--Press the spacebar to activate the booster and lift the surfer. 
--Release the spacebar to deactivate the booster and descend. 
--Avoid colliding with obstacles such as lasers and rockets. 
--Try to cover the maximum distance without crashing to set a high score.
+- Press the spacebar to activate the booster and lift the surfer. 
+- Release the spacebar to deactivate the booster and descend. 
+- Avoid colliding with obstacles such as lasers and rockets. 
+- Try to cover the maximum distance without crashing to set a high score.
 
 # Features
 
@@ -35,9 +35,9 @@ python main.py
 - Background music from Free Music Archive
 - Sound effects from Freesound
 
-# License
+ # Images
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+ 
 
 
 
