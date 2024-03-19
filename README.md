@@ -6,13 +6,15 @@ Sky Surfer is a simple yet addictive Python game built using the Pygame library.
 
 ## Installation
 
-Ensure you have Python 3.x installed on your system. You'll also need to install the Pygame library.
-
-
+**Ensure you have Python 3.x installed on your system.**
+**You'll also need to install the Pygame library.**
+```bash
 pip install pygame
 
-Run the game:
+***Run the game:***
+```bash
 python main.py
+
 
 ## How to Play
 
