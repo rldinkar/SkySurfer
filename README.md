@@ -21,7 +21,7 @@ python main.py
 - Avoid colliding with obstacles such as lasers and rockets. 
 - Try to cover the maximum distance without crashing to set a high score.
 
-# Features
+## Features
 
 - Smooth gameplay experience with 60 frames per second.
 - Progressive speed increase as you cover more distance.
@@ -29,13 +29,13 @@ python main.py
 - Pause functionality to take a break during gameplay.
 - High score tracking to compete with yourself and others.
 
-# Credits
+## Credits
 
 - Game developed by Your Name
 - Background music from Free Music Archive
 - Sound effects from Freesound
 
- # Images
+ ## Images
 
  
 
