@@ -14,7 +14,7 @@ pip install pygame
 Run the game:
 python main.py
 
-# How to Play
+## How to Play
 
 - Press the spacebar to activate the booster and lift the surfer. 
 - Release the spacebar to deactivate the booster and descend. 
